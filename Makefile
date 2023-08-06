@@ -1,5 +1,5 @@
-FILES = Chapter1.java
-CLASSES = Chapter1
+FILES = Part1.java
+CLASSES = Part1
 
 all:
 	javac $(FILES) && java $(CLASSES)
